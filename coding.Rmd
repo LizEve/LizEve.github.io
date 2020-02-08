@@ -1,18 +1,25 @@
 ---
-title: "Coding"
+title: "Scripting Projects"
 output: html_document
 ---
 
-### Scripting Projects
+<img src="images/IMG_5977.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="right">
 
-Check out my [GitHub page](https://github.com/LizEve) for my coding projects. I pretty much taught myself how to code, so it is by no means professional or succienct. But, I enjoy it and I am always happy to answer questions and share tips or tricks. 
+Check out my [GitHub page](https://github.com/LizEve) for my coding projects. I pretty much taught myself how to code, so it is by no means professional or succienct. But, I enjoy it (mostly) and I am always happy to answer questions and share tips or tricks. 
+
+
+
 
 Non-dissertation related, I have been working with the [Shirley C. Tucker Herbarium](http://www.herbarium.lsu.edu/) and [Center for Computing and Technology](https://www.cct.lsu.edu/) to reconfigure their [digitization imaging workflow](https://github.com/LizEve/HerbariumRA). Our goal is to provide a flexible framework of scripts that are open source and accessible to non-professional coders(i.e. biologists who have taught themselves).
 
 
+
+
 ### Other random links 
 
-I am not the best as shell scripting, I wish I had found this years sooner - [https://explainshell.com/](https://explainshell.com/)
+I am not the best as shell scripting, I wish I had found this site years ago - [https://explainshell.com/](https://explainshell.com/)
+
+
 
 ### Tutorials used to build this website 
 
