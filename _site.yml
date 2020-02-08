@@ -8,7 +8,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Coding"
-      href: Coding.html
+      href: coding.html
 
 output:
   html_document:
