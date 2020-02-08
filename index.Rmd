@@ -5,9 +5,22 @@
 
 <img src="images/NaturalBridges.jpg" style="transform:rotate(180deg); width:50%; border:1px solid; margin-right: 20px" align="right">
 
+## About me 
+
 I am currently a PhD student at Louisiana State University, advised by [Dr. Jeremy Brown](https://phyleauxlab.github.io/genevieve.html) and [Dr. Chris Austin](https://sites01.lsu.edu/faculty/austinlab/). 
 My PhD research focuses on testing and developing methods to identify and quantify the variation in phylogenomic data. In particular I am interested in applying these methods to herpetological non-model systems that lack genomic resources to better understand their biology and natural history. 
 
 I got my Bachelor’s Degree from University of California Davis in 2010. Before starting my PhD I worked as a tech in [Brad Shaffer’s](https://sites.lifesci.ucla.edu/eeb-shafferlab/) lab at UC Davis and UCLA. As a tech I developed genomic resources for turtles and salamanders. Additionally I helped with fieldwork, managing a salamander colony, and general lab maintenance. Collecting and developing large genomic datasets sparked my interest in the variation and diversity in information content in current genomic datasets. 
 							
+							
+#### Links 
+
+[Google Scholar](https://scholar.google.com/citations?user=ZAZY2fUAAAAJ&hl=en&oi=ao">Google Scholar) 
+
+[Twitter](https://twitter.com/Lizardeve)
+
+[iNaturalist](https://www.inaturalist.org/people/lizardeve)
+
+[GitHub](https://github.com/LizEve)
+
 My full CV is available [here](files/GGMount_CV).
