@@ -26,3 +26,5 @@ I got my Bachelor’s Degree from University of California Davis in 2010. Before
 [GitHub](https://github.com/LizEve)
 
 My full CV is available [here](files/GGMount_CV).
+
+Selected talks and posters are [here](https://github.com/LizEve/Talks-Posters)
