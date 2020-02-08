@@ -12,7 +12,7 @@ navbar:
 
 output:
   html_document:
-    theme: paper
+    theme: cosmo
     css: 'styles.css'
     
     
