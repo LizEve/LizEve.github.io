@@ -1,43 +1,13 @@
 ---
-title: "Genevieve G. Mount"
-output: html_document
 ---
 
-<style type="text/css">
-.title {
-  display: none;
-}
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-#getting-started img {
-  margin-right: 10px;
-}
+<img src="images/NaturalBridges.jpg" style="transform:rotate(180deg); width:50%; border:1px solid; margin-right: 20px" align="right">
 
-</style>
+I am currently a PhD student at Louisiana State University, advised by [Dr. Jeremy Brown](https://phyleauxlab.github.io/genevieve.html) and [Dr. Chris Austin](https://sites01.lsu.edu/faculty/austinlab/). 
+My PhD research focuses on testing and developing methods to identify and quantify the variation in phylogenomic data. In particular I am interested in applying these methods to herpetological non-model systems that lack genomic resources to better understand their biology and natural history. 
 
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-# **Genevieve G. Mount**
-
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
-
-## How to use
-
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
-
-
-</div>
-<div class="col-sm-6">
-
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
-
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
-</a>
-</div>
+I got my Bachelor’s Degree from University of California Davis in 2010. Before starting my PhD I worked as a tech in [Brad Shaffer’s](https://sites.lifesci.ucla.edu/eeb-shafferlab/) lab at UC Davis and UCLA. As a tech I developed genomic resources for turtles and salamanders. Additionally I helped with fieldwork, managing a salamander colony, and general lab maintenance. Collecting and developing large genomic datasets sparked my interest in the variation and diversity in information content in current genomic datasets. 
+							
+My full CV is available [here](files/GGMount_CV).

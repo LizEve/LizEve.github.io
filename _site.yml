@@ -1,11 +1,22 @@
-name: "MyLabJournal"
+name: "Genevieve G. Mount"
+output_dir: "."
 navbar:
-  title: "MyLabJournal"
+  title: "Genevieve G. Mount"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
+    - text: "Research"
+      href: Research.html
     - text: "Links"
       href: Links.html
-output_dir: "docs"
+right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/LizEve
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/LizardEve
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
