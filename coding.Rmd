@@ -3,7 +3,7 @@ title: "Scripting Projects"
 output: html_document
 ---
 
-<img src="images/IMG_5977.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="right">
+<img src="images/IMG_5977.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="right" hspace="20">
 
 Check out my [GitHub page](https://github.com/LizEve) for my coding projects. I pretty much taught myself how to code, so it is by no means professional or succienct. But, I enjoy it (mostly) and I am always happy to answer questions and share tips or tricks. 
 
