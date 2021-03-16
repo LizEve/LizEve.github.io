@@ -1,0 +1,57 @@
+---
+title: "About me"
+output: html_document
+---
+
+<br>
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## **NSF Postdoctoral Fellow** - 2021 - Current
+<!--
+<img src="images/Bboreasandme.jpg" style="width:30%; border:1px solid; margin-right: 20px" align="right" hspace="20">
+{r, out.width='25%', echo=FALSE, out.extra='style="float:right; padding:10px; border:1px solid"',fig.cap='Western toad, *Anaxyrus boreas*, California 2013'}
+
+```{r, out.width='25%', echo=FALSE, fig.cap='Western toad, *Anaxyrus boreas*, California 2013',out.extra='style="border:1px solid, margin:20px"'}
+knitr::include_graphics('images/Bboreasandme.jpg')
+```
+-->
+
+
+<p style="text-align: center; padding-bottom: 10px; padding-left: 10px; float: right;display: block;"><img src="images/Bboreasandme.jpg" alt="The Boise State football stadium seen from the air. " width="220" height="200" data-api-endpoint="https://vccs.instructure.com/api/v1/files/11980002" data-api-returntype="File" /><br /><span style="font-size: small;">Western toad, *Anaxyrus boreas*, California 2013</span></p>
+
+
+
+#### **Project - **Is the trill gone? How repeated loss of a sexually selected trait impacts the evolution of a speciose anuran family
+I am investigating the loss of male advertisement calls and related morphological structures in True Toads (*Bufonidae*). Little is known about how the loss of sexually selected traits affects the evoluiton and diversification of a lineage. Vocal sacs in anurans (frogs and toads) are an ideal trait and study system to examine the loss of a sexually selected trait, because of the direct connection between morphology and advertisement calls, which are used to attract mates and guard territory.
+<br>
+I am working in [Dr. Molly Womack's](https://www.womacklab.com/team) lab at Utah State University and collaborating with [Dr. Rebecca Tarvin](https://www.tarvinlab.org/) at UC Berkeley. 
+
+
+## **PhD** 
+### **Louisiana State University ** - 2014-2020 - <span style='font-size:20px;'>&#128047;</span> <span style="color: purple;">**Geaux **</span><span style="color:  darkgoldenrod;">**Tigers!!**</span> 
+#### **Advisors:** <br>
+[Dr. Jeremy Brown](https://phyleauxlab.github.io/genevieve.html) <br>
+[Dr. Chris Austin](https://sites01.lsu.edu/faculty/austinlab/)
+
+#### **Dissertation - **Quantifying Structure and Variation in Complex Phylogenetic Data
+
+My PhD research focuses on testing and developing methods to identify and quantify the variation in phylogenomic data. In particular applying these methods to herpetological non-model systems that lack genomic resources to better understand their biology and natural history. 
+
+
+## **Life before Graduate School**
+
+#### **Laboratory technician/manager - UC Davis & UCLA** - 2011-2014
+Before starting my PhD I worked as a tech in [Brad Shaffer’s](https://sites.lifesci.ucla.edu/eeb-shafferlab/) lab at UC Davis and UCLA. As a tech I developed genomic resources for turtles and salamanders. Additionally I helped with fieldwork, managing a salamander colony, and general lab maintenance. Collecting and developing large genomic datasets sparked my interest in the variation and diversity in information content in current genomic datasets. 
+
+#### **Noah's Bagels** - 2010
+I was pretty burnt out after I graduated. I spent a few months working at a Noah's Bagels until I was tired of it and inspired to take the GRE. It did not take long. I am not cut out for customer service. Major respect for those who are.
+
+		
+#### **Bachelors - University of California Davis ** - 2006-2010
+
+I participated in some amazing projects as an undergrad including helping to manage a pupfish colony for [Dr. Chris Martin](http://ib.berkeley.edu/labs/martin/) and feeding scrub jays for [Dr. Teresa Iglesias](https://teresaliglesias.com/). 
+
+
+					
+
