@@ -1,28 +1,52 @@
 ---
-
+title: "Hello!"
+output: html_document
 ---
 
-<!--<link rel="stylesheet" href="styles.css" type="text/css">-->
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-## Home
 
+<img  src="images/meandsquishy.jpg" rotate="90" width="40%" height="40%"  style="border:1px solid border:1px solid; margin-right: 20px" align="right" hspace="20" />
+
+<br>
+
+#### I am currently an NSF post-doc working on toad evolution. 
+
+<br>
+
+#### Feel free to explore the page and contact me for any reason. 
+
+<br>
+<br>
+
+Up to date publication list - [Google Scholar](https://scholar.google.com/citations?user=ZAZY2fUAAAAJ&hl=en&oi=ao">Google Scholar) 
+<br>
+<br>
+Cool creatures I've seen recently - [iNaturalist](https://www.inaturalist.org/people/lizardeve)
+<br>
+<br>
+Coding projects including this website! [GitHub](https://github.com/LizEve)
+<br>
+<br>
+My full CV is available [here](files/GGMount_CV).
+<br>
+<br>
+Selected talks and posters are [here](https://github.com/LizEve/Talks-Posters)
+<br>
+<br>
+[Twitter](https://twitter.com/Lizardeve) - with a preview below!
+<br>
+<br>
 <!--Embed twitter shit https://publish.twitter.com/#-->
 
-<a class="twitter-timeline" data-width="220" data-height="400" data-theme="dark" href="https://twitter.com/Lizardeve?ref_src=twsrc%5Etfw">Tweets by Lizardeve</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" 
+data-width="400px" data-height="200px" 
+data-theme="dark" 
+data-tweet-limit="3"
+style = "right:left"
+href="https://twitter.com/Lizardeve?ref_src=twsrc%5Etfw">
+Tweets by Lizardeve
+</a> 
 
-<br>
-<br>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Other places to find me
-
-[Google Scholar](https://scholar.google.com/citations?user=ZAZY2fUAAAAJ&hl=en&oi=ao">Google Scholar) 
-
-[Twitter](https://twitter.com/Lizardeve)
-
-[iNaturalist](https://www.inaturalist.org/people/lizardeve)
-
-[GitHub](https://github.com/LizEve)
-
-My full CV is available [here](files/GGMount_CV).
-
-Selected talks and posters are [here](https://github.com/LizEve/Talks-Posters)

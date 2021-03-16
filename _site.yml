@@ -15,6 +15,6 @@ navbar:
 output:
   html_document:
     theme: yeti
-    css: 'styles.css'
+    css: styles.css
     
     
