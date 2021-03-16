@@ -6,7 +6,9 @@
 
 ## Home
 
-<a class="twitter-timeline" href="https://twitter.com/Lizardeve">Tweets by Me</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--Embed twitter shit https://publish.twitter.com/#-->
+
+<a class="twitter-timeline" data-width="220" data-height="400" data-theme="dark" href="https://twitter.com/Lizardeve?ref_src=twsrc%5Etfw">Tweets by Lizardeve</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 <br>
