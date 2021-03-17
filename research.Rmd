@@ -3,42 +3,45 @@ title: "Research"
 output: html_document
 ---
 
+<img src="images/IMG_6526.jpg" style="width:27%; margin-right: 20px" align="left" hspace="20">
+
+Like most biologists I am fascinated by the natural variation in nature. I often compliment my cat Athena on her beautiful variation in X chromosome activation.
 <br>
-
-<img src="images/A.tigrinumxcaliforniensis.jpg" style="width:27%; margin-right: 20px" align="right" hspace="20">
-
-Like most biologists I am fascinated by the natural variation in nature. My research is generally focused on translating this variation to understand how it has developed and how it persists. A lot of my PhD research is focused on agnostically capturing the large scale patterns in phylogenetic data. I see this as a first step towards better understanding the  identifying the sources of variation, whether there are biological abnormalities, or systematic bias introduced by inadequate models. 
-
 <br>
-Photo: Tiger salamander hybrids (Ambystoma californiense x tigrinum), Salinas CA
+My research is generally focused on translating this variation to understand how it has developed and how it persists. A lot of my PhD research is focused on agnostically capturing the large scale patterns in phylogenetic data. I see this as a first step towards better understanding the  identifying the sources of variation, whether there are biological abnormalities, or systematic bias introduced by inadequate models. 
 
 <br><br>
 
 ## Identifying and visualizing structure in phylogenetic tree sets
 
 <br>
-<a href="https://treescaper.github.io/TreeScaperNetworks.html">
-<img src="images/Distance74edge61start.jpg" style="width:50%; margin-right: 20px" align="right">
+<br>
+<a href="https://treescaper.github.io/">
+<img src="images/BipartitionNetwork.jpg" style="width:40%; margin-right: 20px; margin-bottom: 10px" align="right">
 </a>
 
-Variation in inferred gene trees is one of the most striking and consistent observations in phylogenomics. Unraveling the nature and source of this variation is crucial to understanding fundamental aspects of evolution such as molecular evolution across genomes, rates of speciation, hybridization, and patterns of phenotypic evolution. I used simulations to investigate the performance of recently developed network-based community detection approaches , implemented in [TreeScaper](https://github.com/whuang08/TreeScaper/releases), for the identification of such structure. Implementing network methods for identifying structure and clustering information in phylogenetic datasets frees researchers from the loss of information inherent to dimensionality reduction methods. 
+Variation in inferred gene trees is one of the most striking and consistent observations in phylogenomics. I use simulations to investigate the performance of recently developed network-based community detection approaches that aim to explore, identify, and quantify topological variation in phylogenomic data sets.
 
 <br>
-Figure: Two simulated phylogetetic tree sets analyzed and visualized using a/d) a bipartition network, c/e) a topological network, b/f) 2D Nonlinear dimensionality reduction plot using a robinson-foulds distance matrix
-<br><br><br>
 
-## Comparing genome-wide measures of phylogenetic support in squamates
+These approaches convert information in the tree set into two different network types: one with trees as nodes and their affinities as edge weights and the other with bipartitions as nodes and covariances in their presence/absence across topologies as edge weights(as pictured here). 
+
+<br>
+<br>
+<br>
+
+
+## Comparing likelihood ratios to understand variation in phylogenetic support in squamates
+<br><br>
+<img src="images/SquamScatter.jpg" style="width:40%; margin-right: 20px" align="right" hspace="20">
+Genomic data have not always brought resolution to the tree of life. In some cases large phylogenomic studies reach conflicting conclusions about important phylogenetic relationships, with each mutually exclusive possibility receiving very strong support in individual studies. However, traditional support values (such as bootstrap proportions and posterior probabilities) are meant to measure uncertainty due to sampling error, which is small with larger datasets. 
+<br><br>
+Two strategies for better understanding and addressing phylogenomic conflicts are to examine support on a gene-by-gene basis and to use support values that capture a larger range of variation in phylogenetic information, such as likelihood ratios. I compare the behavior of maximum and marginal likelihood ratios for understanding the distribution of phylogenetic information across genes in four squamate phylogenomic datasets. 
+
 <br>
 <img src="images/IMG_1580.jpg" style="width:15%; margin-right: 20px" align="top" hspace="20">
 <img src="images/squam.png" style="width:50%; margin-right: 20px" align="top" hspace="20">
 <img src="images/DSC00272.JPG" style="width:15%; margin-right: 20px" align="top" hspace="20">
 <br><br>
-<img src="images/Streicher_Scatter_AI_byGGIrank.jpg" style="width:25%; margin-right: 20px" align="right" hspace="20">
-Multiple recent large phylogenies have found discordant results despite conflicting trees having strong traditional support values. One approach to addressing this discordance is to compare the relative support of the data for each potential topology. I compared multiple recently developed methods to assess the support of the data for the topology using the placement of iguanas within the larger family of lizards and snakes (squamates) as my example data set. I compare bayes factors (BF), gene likelihood scores (dGLS), gene genealogy interrogation (GGI), and gene and site concordance factors to assess their consistency and agreement across multiple squamate data sets. Methods have some variation in how they compare information across loci, indicating that corroborating results with multiple methods is the most robust way to assess support for a given topology.
-
-Figure: Preliminary data of the correlation across methods
-
-
-
 
 							
