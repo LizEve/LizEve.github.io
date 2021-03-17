@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-<img src="images/IMG_0095.jpg"  rotate="90" style="width:25%; margin-right: 20px; margin-bottom: 20px" align="right" hspace="20">
+<img src="images/IMG_0095.jpg"  rotate="90" style="width:25%; border:1px solid; margin-right: 20px; margin-bottom: 20px" align="right" hspace="20">
 
 I am a self-taught with everything coding and computer related. I started teaching myself bash and python the year before I started my PhD and found that I really enjoyed it. 
 
