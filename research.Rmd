@@ -2,6 +2,8 @@
 title: "Research"
 output: html_document
 ---
+<br>
+<br>
 
 <img src="images/IMG_6526.jpg" style="width:27%; margin-right: 20px" align="left" hspace="20">
 
