@@ -1,27 +1,45 @@
 ---
-title: "Scripting Projects"
+title: "Coding"
 output: html_document
 ---
 
-<img src="images/IMG_5977.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="right" hspace="20">
+<br>
 
-Check out my [GitHub page](https://github.com/LizEve) for my coding projects. I pretty much taught myself how to code, so it is by no means professional or succienct. But, I enjoy it (mostly) and I am always happy to answer questions and share tips or tricks. 
+<img src="images/IMG_0095.jpg"  rotate="90" style="width:25%; margin-right: 20px; margin-bottom: 20px" align="right" hspace="20">
+
+I am a self-taught with everything coding and computer related. I started teaching myself bash and python the year before I started my PhD and found that I really enjoyed it. 
+
+<br>
+
+### Herbarium Imaging Workflow
 
 
 
+I worked with the [Shirley C. Tucker Herbarium](http://www.herbarium.lsu.edu/) and [Center for Computing and Technology](https://www.cct.lsu.edu/) to reconfigure their [digitization imaging workflow](https://github.com/LizEve/LSU_Herbarium_Imaging_Scripts), incorperating scripts from the [Consortium of Pacific Northwest Herbaria](https://www.pnwherbaria.org/documentation/specimenimaging.php). 
 
-Non-dissertation related, I have been working with the [Shirley C. Tucker Herbarium](http://www.herbarium.lsu.edu/) and [Center for Computing and Technology](https://www.cct.lsu.edu/) to reconfigure their [digitization imaging workflow](https://github.com/LizEve/HerbariumRA). Our goal is to provide a flexible framework of scripts that are open source and accessible to non-professional coders(i.e. biologists who have taught themselves).
+Our goal is to provide a flexible framework of scripts that are open source and accessible to non-professional coders(i.e. biologists who have taught themselves).
+
+<br>
 
 
+### Github
 
+
+Check out my [GitHub page](https://github.com/LizEve) for my coding projects. I am always happy to answer questions and share tips or tricks. 
+
+<br>
 
 ### Other random links 
 
+
+
 I am not the best as shell scripting, I wish I had found this site years ago - [https://explainshell.com/](https://explainshell.com/)
 
-
+<br>
 
 ### Tutorials used to build this website 
+
+
 
 [https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#demo](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#demo)
 [https://holtzy.github.io/Pimp-my-rmd/](https://holtzy.github.io/Pimp-my-rmd/)

@@ -2,24 +2,24 @@
 title: "Research"
 output: html_document
 ---
-<br>
-<br>
+<img src="images/IMG_5977.jpg" style="width:25%; margin-right: 20px" align="right" hspace="20">
 
-<img src="images/IMG_6526.jpg" style="width:27%; margin-right: 20px" align="left" hspace="20">
+**My research is generally focused on quantifying variation to understand how it has developed and how it persists.**
 
-Like most biologists I am fascinated by the natural variation in nature. I often compliment my cat Athena on her beautiful variation in X chromosome activation.
+Like most biologists I am fascinated by the natural variation in nature. I often compliment my cat Athena on her beautiful variation in X chromosome activation. She replies with "quit working and feed me."
+
+
+During my PhD I focused on agnostically capturing the large scale patterns in phylogenetic data. I see this as a first step towards better understanding the  identifying the sources of variation, whether there are biological abnormalities, or systematic bias introduced by inadequate models. 
+
+My current research focuses on variation in the form of trait loss, specifically traits that are known to be sexually selected. As someone with hearing loss I am particularly drawn to investigate how common this trait loss is and what the evolutionary drivers may be. Additionally I love toads and they will be my study system for this research.
 <br>
 <br>
-My research is generally focused on translating this variation to understand how it has developed and how it persists. A lot of my PhD research is focused on agnostically capturing the large scale patterns in phylogenetic data. I see this as a first step towards better understanding the  identifying the sources of variation, whether there are biological abnormalities, or systematic bias introduced by inadequate models. 
-
-<br><br>
 
 ## Identifying and visualizing structure in phylogenetic tree sets
 
 <br>
-<br>
 <a href="https://treescaper.github.io/">
-<img src="images/BipartitionNetwork.jpg" style="width:40%; margin-right: 20px; margin-bottom: 10px" align="right">
+<img src="images/BipartitionNetwork.jpg" style="width:30%; margin-right: 20px; margin-bottom: 10px" align="right">
 </a>
 
 Variation in inferred gene trees is one of the most striking and consistent observations in phylogenomics. I use simulations to investigate the performance of recently developed network-based community detection approaches that aim to explore, identify, and quantify topological variation in phylogenomic data sets.
@@ -34,7 +34,7 @@ These approaches convert information in the tree set into two different network 
 
 
 ## Comparing likelihood ratios to understand variation in phylogenetic support in squamates
-<br><br>
+<br>
 <img src="images/SquamScatter.jpg" style="width:40%; margin-right: 20px" align="right" hspace="20">
 Genomic data have not always brought resolution to the tree of life. In some cases large phylogenomic studies reach conflicting conclusions about important phylogenetic relationships, with each mutually exclusive possibility receiving very strong support in individual studies. However, traditional support values (such as bootstrap proportions and posterior probabilities) are meant to measure uncertainty due to sampling error, which is small with larger datasets. 
 <br><br>

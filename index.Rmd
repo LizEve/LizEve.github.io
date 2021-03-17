@@ -14,7 +14,7 @@ output: html_document
 
 <br>
 
-#### Feel free to explore the page and contact me for any reason. 
+#### Feel free to explore the page and contact me. 
 
 <br>
 <br>
