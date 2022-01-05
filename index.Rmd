@@ -25,10 +25,10 @@ Up to date publication list - [Google Scholar](https://scholar.google.com/citati
 Cool creatures I've seen recently - [iNaturalist](https://www.inaturalist.org/people/lizardeve)
 <br>
 <br>
-Coding projects including this website! [GitHub](https://github.com/LizEve)
+Coding projects including this website [GitHub](https://github.com/LizEve)
 <br>
 <br>
-My full CV is available [here](files/GGMount_CV).
+My full CV is available [here](files/Mount_CV_9.2021.pdf).
 <br>
 <br>
 Selected talks and posters are [here](https://github.com/LizEve/Talks-Posters)
