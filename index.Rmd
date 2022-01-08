@@ -5,84 +5,71 @@ output: html_document
 <img  src="images/utahsunset.JPG" width="100%" />
 
 
-#### I study how it variation has developed and how it persists by testing methods for quantifying variation and studying morphological and genetic variation across multiple time scales in anurans and squamates.
-
-<img  src="images/selfie.JPG" rotate="270" width="40%" height="40%"  style="border:1px solid border:1px solid; margin-right: 20px" align="right" hspace="20" />
-
-<br>
-
-#### I am currently an NSF post-doc working on toad evolution. 
-
-<br>
-
-#### Feel free to explore the page and contact me. 
+## How does variation develop, how does it persist, and how do we know?
 
 <br>
 <br>
 
-Up to date publication list - [Google Scholar](https://scholar.google.com/citations?user=ZAZY2fUAAAAJ&hl=en&oi=ao">Google Scholar) 
-<br>
-<br>
-Cool creatures I've seen recently - [iNaturalist](https://www.inaturalist.org/people/lizardeve)
-<br>
-<br>
-Coding projects including this website [GitHub](https://github.com/LizEve)
-<br>
-<br>
-My full CV is available [here](files/Mount_CV_9.2021.pdf).
-<br>
-<br>
-Selected talks and posters are [here](https://github.com/LizEve/Talks-Posters)
-<br>
-<br>
-[Twitter](https://twitter.com/Lizardeve) - with a preview below!
-<br>
-<br>
-<!--Embed twitter shit https://publish.twitter.com/#-->
+### I work on answering these questions in two main ways.
 
-<a class="twitter-timeline" 
-data-width="400px" data-height="200px" 
-data-theme="dark" 
-data-tweet-limit="3"
-style = "right:left"
-href="https://twitter.com/Lizardeve?ref_src=twsrc%5Etfw">
-Tweets by Lizardeve
-</a> 
+<br>
+<br>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+#### 1. By testing methods for quantifying variation.
 
+<br>
 
+#### 2. By studying morphological and genetic variation across multiple time scales in anurans and squamates.
+
+<br>
+<br>
+
+##### I am currently an NSF post-doc at Utah State University, working on toad evolution with Dr. Womack, Utah State University, and Dr. Tarvin, University of California, Berkeley and Museum of Vertebrate Zoology.
+
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+
+#### Website is currently undergoing some alterations, so I am leaving my favorite poem here as I troubleshoot a few things. 
 
 ’Twas brillig, and the slithy toves
       Did gyre and gimble in the wabe:
 All mimsy were the borogoves,
       And the mome raths outgrabe.
-
+<br>
+<br>
 “Beware the Jabberwock, my son!
       The jaws that bite, the claws that catch!
 Beware the Jubjub bird, and shun
       The frumious Bandersnatch!”
-
+<br>
+<br>
 He took his vorpal sword in hand;
       Long time the manxome foe he sought—
 So rested he by the Tumtum tree
       And stood awhile in thought.
-
+<br>
+<br>
 And, as in uffish thought he stood,
       The Jabberwock, with eyes of flame,
 Came whiffling through the tulgey wood,
       And burbled as it came!
-
+<br>
+<br>
 One, two! One, two! And through and through
       The vorpal blade went snicker-snack!
 He left it dead, and with its head
       He went galumphing back.
-
+<br>
+<br>
 “And hast thou slain the Jabberwock?
       Come to my arms, my beamish boy!
 O frabjous day! Callooh! Callay!”
       He chortled in his joy.
-
+<br>
+<br>
 ’Twas brillig, and the slithy toves
       Did gyre and gimble in the wabe:
 All mimsy were the borogoves,
