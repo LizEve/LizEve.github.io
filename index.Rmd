@@ -1,52 +1,30 @@
 ---
-title: "Hello!"
+title: "Website"
+author: "Genevieve G Mount"
+date: "4/22/2022"
 output: html_document
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
+## R Markdown
 
-<img  src="images/selfie.JPG" rotate="270" width="40%" height="40%"  style="border:1px solid border:1px solid; margin-right: 20px" align="right" hspace="20" />
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-<br>
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-#### I am currently an NSF post-doc working on toad evolution. 
+```{r cars}
+summary(cars)
+```
 
-<br>
+## Including Plots
 
-#### Feel free to explore the page and contact me. 
+You can also embed plots, for example:
 
-<br>
-<br>
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
 
-Up to date publication list - [Google Scholar](https://scholar.google.com/citations?user=ZAZY2fUAAAAJ&hl=en&oi=ao">Google Scholar) 
-<br>
-<br>
-Cool creatures I've seen recently - [iNaturalist](https://www.inaturalist.org/people/lizardeve)
-<br>
-<br>
-Coding projects including this website [GitHub](https://github.com/LizEve)
-<br>
-<br>
-My full CV is available [here](files/Mount_CV_9.2021.pdf).
-<br>
-<br>
-Selected talks and posters are [here](https://github.com/LizEve/Talks-Posters)
-<br>
-<br>
-[Twitter](https://twitter.com/Lizardeve) - with a preview below!
-<br>
-<br>
-<!--Embed twitter shit https://publish.twitter.com/#-->
-
-<a class="twitter-timeline" 
-data-width="400px" data-height="200px" 
-data-theme="dark" 
-data-tweet-limit="3"
-style = "right:left"
-href="https://twitter.com/Lizardeve?ref_src=twsrc%5Etfw">
-Tweets by Lizardeve
-</a> 
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
