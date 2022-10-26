@@ -1,0 +1,12 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+There are so many people who have helped me along the way and who I am currently collaborating with. 
+
+Here is an incomplete list that will be updated soon
