@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <br>
 <br>
-My full CV is available [here](https://LizEve.github.io/Website42222/files/Mount_CV_2022.pdf).
+My full CV is available [here](Mount_CV_2022.pdf).
 <br>
 <br>
