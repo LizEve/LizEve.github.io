@@ -8,10 +8,9 @@ output: html_document
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## **NSF Postdoctoral Fellow** - 2021 - Current
-
-
 <!--
-<img  src="images/selfie.JPG" rotate="270" width="40%" height="40%"  style="border:1px solid border:1px solid; margin-right: 20px" align="right" hspace="20" />
+<img src="images/Bboreasandme.jpg" style="width:30%; border:1px solid; margin-right: 20px" align="right" hspace="20">
+{r, out.width='25%', echo=FALSE, out.extra='style="float:right; padding:10px; border:1px solid"',fig.cap='Western toad, *Anaxyrus boreas*, California 2013'}
 
 ```{r, out.width='25%', echo=FALSE, fig.cap='Western toad, *Anaxyrus boreas*, California 2013',out.extra='style="border:1px solid, margin:20px"'}
 knitr::include_graphics('images/Bboreasandme.jpg')

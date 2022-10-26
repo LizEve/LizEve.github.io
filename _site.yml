@@ -1,22 +1,20 @@
 name: "Genevieve G. Mount"
 output_dir: "."
 navbar:
-  type: default
+  title: "Genevieve G. Mount"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About me"
       href: aboutme.html
     - text: "Research"
       href: research.html
-    - text: "CV"
-      href: cv.html
-    - text: "People"
-      href: people.html
-    - text: "Other"
-      href: other.html
+    - text: "Coding"
+      href: coding.html
 
 output:
   html_document:
     theme: yeti
-
+    css: styles.css
+    
+    
