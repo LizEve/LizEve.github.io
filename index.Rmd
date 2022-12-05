@@ -1,6 +1,8 @@
 ---
 title: "Genevieve G. Mount"
-output: html_document
+output: 
+  html_document:
+    css: bootstrap.css
 editor_options: 
   markdown: 
     wrap: 72
