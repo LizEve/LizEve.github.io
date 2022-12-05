@@ -1,7 +1,6 @@
 name: "Genevieve G. Mount"
 output_dir: "."
 navbar:
-  title: "Genevieve G. Mount"
   left:
     - text: "Home"
       href: index.html

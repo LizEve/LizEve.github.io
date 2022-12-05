@@ -1,20 +1,20 @@
 ---
-title: "Hello!"
+title: "Genevieve G. Mount"
 output: html_document
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-<img  src="images/selfie.JPG" rotate="270" width="40%" height="40%"  style="border:1px solid border:1px solid; margin-right: 20px" align="right" hspace="20" />
+<img  src="images/selfie.JPG" rotate="270" width="40%" height="40%"  style="border:10px solid border:10px solid; margin-right: 20px" align="right" hspace="20" />
 
 <br>
 
-#### I am currently an NSF post-doc working on toad evolution. 
+#### I am an evolutionary biologist with research in phylogenetics, methods development, comparative evolution, and conservation.
 
 <br>
 
-#### Feel free to explore the page and contact me. 
+#####  
 
 <br>
 <br>
