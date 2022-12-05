@@ -4,16 +4,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About me"
-      href: aboutme.html
     - text: "Research"
       href: research.html
-    - text: "Coding"
-      href: coding.html
+    - text: "Publications"
+      href: research.html
+    - text: "Contact"
+      href: aboutme.html
 
 output:
   html_document:
-    theme: yeti
+    theme: bootstrap
     css: styles.css
     
     
