@@ -2934,7 +2934,7 @@
 
 	#banner {
 		padding: 12em 0 10em 0;
-		background-image: url('../../images/banner.jpg');
+		background-image: url('../../images/sunset.jpg');
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
@@ -3031,7 +3031,7 @@
 			}
 
 	#footer ul.icons li .icon {
-		font-size: 0.58em;
+		font-size: 0.9em;
 	}
 
 	@media screen and (max-width: 736px) {
