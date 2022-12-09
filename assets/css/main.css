@@ -2281,6 +2281,16 @@
 				width: 100%;
 			}
 
+		.image.logo {
+			float: right;
+			padding: 0 0 1em 1.5em;
+			top: 0.25em;
+		}
+
+			.image.logo img {
+				width: 40%;
+			}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
