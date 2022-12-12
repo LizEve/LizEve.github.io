@@ -16,3 +16,6 @@ Publications
 
 Contact me/ About me
 - add silly info about me there 
+
+
+Add google analytics
